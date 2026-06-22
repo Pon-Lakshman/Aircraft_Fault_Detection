@@ -230,10 +230,6 @@ ROC-AUC = 0.9775
 
 A value close to 1 indicates excellent discrimination capability.
 
-### Precision-Recall Curve
-
-Used to determine the optimal anomaly threshold for fault detection.
-
 ### Confusion Matrix
 
 Provides insight into:
