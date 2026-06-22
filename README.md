@@ -320,7 +320,7 @@ Aircraft_Fault_Detection/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Aircraft_Fault_Detection.git
+git clone https://github.com/Pon-Lakshman/Aircraft_Fault_Detection.git
 
 cd Aircraft_Fault_Detection
 ```
